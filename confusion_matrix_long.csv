@@ -1,0 +1,5 @@
+Actual,Predicted,Count
+Actual_NotHate,Pred_NotHate,4618
+Actual_Hate,Pred_NotHate,240
+Actual_NotHate,Pred_Hate,53
+Actual_Hate,Pred_Hate,46
